@@ -97,6 +97,7 @@ Aqui está um exemplo de como uma imagem pode ser representada em ASCII:
 ![Efeitos](https://github.com/CainaGabriel/ImageEditor/blob/main/efeitos.PNG)
 
 - Baixe sua imagem editada.
+
 ![Baixar imagem](https://github.com/CainaGabriel/ImageEditor/blob/main/download.PNG)
 
 ---
