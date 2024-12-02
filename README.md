@@ -40,6 +40,23 @@ O editor oferece uma interface simples e intuitiva para aplicar diversos efeitos
 ### 💾 **Salvar e Baixar**
 - Após aplicar os efeitos desejados, a imagem editada pode ser salva e baixada em formato `.jpg`.
 
+### 🖥️ Como Executar
+- Clone este repositório:
+  - git clone <url-do-repositorio>
+  - cd <nome-da-pasta>
+- Execute o aplicativo:
+  - streamlit run edit.py
+- Uma aba no navegador será aberta com a interface do editor de imagens.
+  
+---
+
+## ✨ Demonstração
+- Após executar o comando streamlit run edit.py, você verá algo similar a esta interface:
+
+- Faça upload de uma imagem.
+- Escolha efeitos ou ajustes interativos no menu lateral.
+- Baixe sua imagem editada.
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
