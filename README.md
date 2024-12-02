@@ -37,6 +37,36 @@ O editor oferece uma interface simples e intuitiva para aplicar diversos efeitos
 - Aplica deslocamento de canais de cor e linhas de ruído para criar o popular efeito de "erro digital".
 - Intensidade ajustável.
 
+## 🎨 Conversão de Imagem para Arte ASCII
+
+Uma das funcionalidades do editor de imagens é a **conversão de imagens para arte ASCII**, permitindo transformar uma imagem em uma representação visual com caracteres ASCII. Essa funcionalidade é útil para projetos artísticos, uso em ambientes de terminal ou como uma demonstração de manipulação avançada de imagens.
+
+### 🛠️ Configurações da Arte ASCII
+- **Escala**:
+  - Controla o tamanho da imagem ASCII gerada.
+  - Valores menores geram imagens mais compactas, enquanto valores maiores aumentam os detalhes.
+- **Nível de Detalhe**:
+  - Ajusta a quantidade de caracteres ASCII usados para representar os tons da imagem.
+  - Um nível maior resulta em maior variedade de caracteres e mais detalhes.
+- **Altura e Largura da Área de Exibição**:
+  - Personalize dinamicamente o tamanho da área onde a arte ASCII é exibida.
+  - Configure a altura (em pixels) e a largura (em porcentagem) para uma visualização ideal.
+
+### 🔍 Visualização da Arte ASCII
+- A arte ASCII é exibida diretamente na interface do **Streamlit** em uma área estilizada:
+  - **Fundo escuro** para melhor contraste.
+  - **Fonte monoespaçada** para garantir alinhamento perfeito dos caracteres.
+  - Rolagem horizontal e vertical caso a arte exceda o tamanho da área.
+
+### 💾 Baixar Arte ASCII
+- A arte gerada pode ser baixada como um arquivo `.txt` diretamente na interface do Streamlit.
+- Um botão **"Baixar Arte ASCII"** está disponível para salvar a saída no computador.
+
+### 🌟 Exemplo de Arte ASCII
+Aqui está um exemplo de como uma imagem pode ser representada em ASCII:
+
+
+
 ### 💾 **Salvar e Baixar**
 - Após aplicar os efeitos desejados, a imagem editada pode ser salva e baixada em formato `.jpg`.
 
