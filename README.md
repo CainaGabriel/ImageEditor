@@ -42,10 +42,12 @@ O editor oferece uma interface simples e intuitiva para aplicar diversos efeitos
 
 ### 🖥️ Como Executar
 - Clone este repositório:
-  - `git clone <url-do-repositorio>`
-  - `cd <nome-da-pasta>`
+  ```
+  git clone <url-do-repositorio>
+  cd <nome-da-pasta>
 - Execute o aplicativo:
-  - `streamlit run edit.py`
+  ```
+  streamlit run edit.py
 - Uma aba no navegador será aberta com a interface do editor de imagens.
   
 ---
