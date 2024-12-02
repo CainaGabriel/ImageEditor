@@ -88,7 +88,7 @@ Aqui está um exemplo de como uma imagem pode ser representada em ASCII:
 
 ## ✨ Demonstração
 - Após executar o comando streamlit run edit.py, você verá algo similar a esta interface:
-
+![Editor de Imagens](https://github.com/CainaGabriel/ImageEditor/blob/main/CarregarImg.PNG)
 - Faça upload de uma imagem.
 - Escolha efeitos ou ajustes interativos no menu lateral.
 - Baixe sua imagem editada.
