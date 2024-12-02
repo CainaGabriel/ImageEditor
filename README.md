@@ -73,6 +73,9 @@ O editor oferece uma interface simples e intuitiva para aplicar diversos efeitos
 
 ---
 
+## 📧 Contato
+Para dúvidas ou sugestões, entre em contato: cainaamantea.cg@gmail.com
+
 ## 📋 Requisitos
 
 Certifique-se de ter as seguintes bibliotecas instaladas no ambiente Python:
@@ -84,4 +87,3 @@ Certifique-se de ter as seguintes bibliotecas instaladas no ambiente Python:
 Instale-as usando:
 ```
 pip install streamlit opencv-python pillow numpy
-
