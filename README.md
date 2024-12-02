@@ -29,6 +29,10 @@ O editor oferece uma interface simples e intuitiva para aplicar diversos efeitos
   - Opacidade.
   - Tamanho da fonte.
 
+### 🖋️ **Ajuste de Marca d'Água**
+
+![Ajuste a marca d'água](https://github.com/CainaGabriel/ImageEditor/blob/main/marcadagua.PNG)
+
 ### ✂️ **Remoção de Fundo**
 - Utiliza o algoritmo **GrabCut** para segmentar e remover o fundo da imagem.
 - Parâmetros configuráveis, como retângulo de inicialização e número de iterações.
